@@ -1,0 +1,132 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node.js
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Vite
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# TypeScript
+*.tsbuildinfo
+
+# Mac system files
+.DS_Store
+
+# Coverage
+coverage/
+
+# Misc
+*.log
+
+# Firebase emulators
+.firebase/
+
+# Tailwind JIT cache
+.tailwind*
+
+# Local config
+*.local.js
+*.local.ts
+
+# Public assets (optional, if built/generated)
+public/assets/
+
+# pnpm
+.pnpm-debug.log
+.pnpm-store/
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Next.js (if ever used)
+.next/
+
+# Storybook (if ever used)
+.storybook/
+
+# SvelteKit (if ever used)
+.svelte-kit/
+
+# JetBrains IDEs
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Miscellaneous
+*.tgz
+
+# Ignore test coverage
+coverage/
+
+# Ignore output of build tools
+out/
+
+# Ignore temp files
+*.tmp
+*.temp
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore logs
+logs/
+
+# Ignore firebase local emulator data
+.firebase/
+
+# Ignore generated files
+*.generated.*
+

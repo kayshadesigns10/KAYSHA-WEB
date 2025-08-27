@@ -1,0 +1,37 @@
+{
+  "categories": [
+    { "id": "suits", "label": "Suits" },
+    { "id": "sets", "label": "Sets" },
+    { "id": "outerwear", "label": "Outerwear" },
+    { "id": "dresses", "label": "Dresses" },
+    { "id": "tops", "label": "Tops" }
+  ],
+  "sizes": [
+    { "id": "xs", "label": "XS" },
+    { "id": "s", "label": "S" },
+    { "id": "m", "label": "M" },
+    { "id": "l", "label": "L" },
+    { "id": "xl", "label": "XL" },
+    { "id": "xxl", "label": "XXL" }
+  ],
+  "colors": [
+    { "id": "black", "label": "Black", "hex": "#000000" },
+    { "id": "white", "label": "White", "hex": "#FFFFFF" },
+    { "id": "navy", "label": "Navy", "hex": "#001F3F" },
+    { "id": "burgundy", "label": "Burgundy", "hex": "#800020" },
+    { "id": "cream", "label": "Cream", "hex": "#F5F5DC" },
+    { "id": "beige", "label": "Beige", "hex": "#F5F5DC" },
+    { "id": "camel", "label": "Camel", "hex": "#C19A6B" },
+    { "id": "grey", "label": "Grey", "hex": "#808080" },
+    { "id": "brown", "label": "Brown", "hex": "#964B00" },
+    { "id": "olive", "label": "Olive", "hex": "#808000" },
+    { "id": "maroon", "label": "Maroon", "hex": "#800000" },
+    { "id": "pink", "label": "Pink", "hex": "#FFC0CB" }
+  ],
+  "priceRange": {
+    "min": 0,
+    "max": 5000,
+    "step": 50,
+    "defaultRange": [0, 5000]
+  }
+}
